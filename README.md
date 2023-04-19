@@ -2,35 +2,30 @@
 
 ATP/WTA IDs is a simple open source project that provides JavaScript modules to print the player IDs of ATP and WTA tours.
 
-## Installation
+## Install dependencies
 
-You can install ATP/WTA IDs using npm:
+You can install the project dependencies using npm:
 
+```shell
+npm install
 ```
-npm install atp-wta-ids
-```
-
 
 ## Usage
 
 ### ATP Players
 
-To print the IDs of ATP players, use the following code:
+To print the IDs of ATP players, use the following:
 
-```javascript
-import { printATPPlayersAndIds } from "atp-wta-ids/print-atp-players.js";
-
-printATPPlayersAndIds();
+```shell
+node atp-wta-ids/print-atp-players.js
 ```
 
 ### WTA Players
 
-To print the IDs of WTA players, use the following code:
+To print the IDs of WTA players, use the following:
 
-```javascript
-import { printWTAPlayersAndIds } from "atp-wta-ids/print-wta-players.js";
-
-printWTAPlayersAndIds();
+```shell
+node atp-wta-ids/print-wta-players.js
 ```
 
 ## License
