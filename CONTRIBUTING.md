@@ -4,7 +4,7 @@ Thank you for considering contributing to ATP/WTA IDs! This document outlines so
 
 ## Issues
 
-If you have any issues or suggestions for improvement, please create a new issue on the [GitHub repository](https://github.com/yourusername/atp-wta-ids/issues). Be sure to search existing issues before creating a new one.
+If you have any issues or suggestions for improvement, please create a new issue on the [GitHub repository](https://github.com/bdo/atp-wta-ids/issues). Be sure to search existing issues before creating a new one.
 
 ## Pull Requests
 
@@ -25,8 +25,8 @@ Before creating a pull request, make sure that:
 
 ## Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](https://chat.openai.com/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/bdo/print-atp-wta-ids/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## License
 
-By contributing to ATP/WTA IDs, you agree that your contributions will be licensed under the project's [MIT License](https://github.com/bdo/print-atp-wta-ids/blob/documentation/LICENSE).
+By contributing to ATP/WTA IDs, you agree that your contributions will be licensed under the project's [MIT License](https://github.com/bdo/print-atp-wta-ids/blob/main/LICENSE).
