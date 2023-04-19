@@ -1,0 +1,9 @@
+{
+  "name": "atp-wta-ids",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "jsdom": "^21.1.1"
+  }
+}
